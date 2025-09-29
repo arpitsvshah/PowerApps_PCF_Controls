@@ -37,7 +37,7 @@ This file can be imported into your Power Platform environment.
 
 ## License
 
-Specify your license here.
+MIT See [LICENSE](https://github.com/arpitsvshah/PowerApps_PCF_Controls/blob/main/LICENSE) for details.
 
 ## Author
 
